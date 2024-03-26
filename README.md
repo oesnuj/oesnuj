@@ -28,13 +28,18 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oesnuj" alt="Top Languages">
   </a>
   <br>
+  <br>
   <a href="https://github.com/oesnuj">
     <img src="https://github-readme-stats.vercel.app/api?username=oesnuj&show_icons=true&bg_color=00000000" alt="GitHub Stats">
   </a>
   <br>
+  <br>
   <a href="https://solved.ac/oesnuj">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesnuj" alt="Solved.ac Profile">
   </a>
+  <br>
+  <br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foesnuj&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8Dhits+&edge_flat=true"/></a>
 </p>
 
 <!--
