@@ -4,7 +4,7 @@
 </p>
 
 
-<h3 align="center">📚 Tech Stacks</h3>
+<h2 align="center">📚 Tech Stacks</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -17,7 +17,7 @@
 
 <br>
 <br>
-<h3 align="center">⚒ Collaboration Tools</h3>
+<h2 align="center">⚒ Collaboration Tools</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -26,7 +26,7 @@
 </p>
 
 <br>
-<h3 align="center">👀 States</h3>
+<h2 align="center">👀 States</h3>
 
 <p align="center">
    <a href="https://github.com/oesnuj">
