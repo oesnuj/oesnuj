@@ -25,7 +25,7 @@
 
 <br>
 <h3 align="center"> States 👀</h3>
-<div aligin="center">
+<p align="center">
   <a href="https://github.com/oesnuj">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oesnuj" alt="Top Languages">
   </a>
@@ -37,7 +37,8 @@
   <a href="https://solved.ac/oesnuj">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesnuj" alt="Solved.ac Profile">
   </a>
-</div>
+</p>
+
 <!--
 **oesnuj/oesnuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
