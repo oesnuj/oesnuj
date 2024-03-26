@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm%20Junseo&fontSize=90" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+World!" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm%20Junseo&fontSize=90" align="center">
 
 <h3 align="center">Tech Stacks 📚</h3>
 <p align="center">
