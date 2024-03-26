@@ -13,7 +13,6 @@
 
 <br>
 <br>
-<h3 align="center"> States 👀</h3>
 <h3 align="center">Collaboration Tools ⚒</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -25,12 +24,18 @@
 </p>
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oesnuj)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oesnuj&show_icons=true&bg_color=00000000)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=oesnuj)](https://solved.ac/oesnuj)
+<h3 align="center"> States 👀</h3>
+<div aligin="center">
+  <a href="https://github.com/oesnuj">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oesnuj" alt="Top Languages">
+  </a>
+  <a href="https://github.com/oesnuj">
+    <img src="https://github-readme-stats.vercel.app/api?username=oesnuj&show_icons=true&bg_color=00000000" alt="GitHub Stats">
+  </a>
+  <a href="https://solved.ac/oesnuj">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesnuj" alt="Solved.ac Profile">
+  </a>
+</div>
 <!--
 **oesnuj/oesnuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
