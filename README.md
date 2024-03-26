@@ -29,9 +29,11 @@
   <a href="https://github.com/oesnuj">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oesnuj" alt="Top Languages">
   </a>
+  <br>
   <a href="https://github.com/oesnuj">
     <img src="https://github-readme-stats.vercel.app/api?username=oesnuj&show_icons=true&bg_color=00000000" alt="GitHub Stats">
   </a>
+  <br>
   <a href="https://solved.ac/oesnuj">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesnuj" alt="Solved.ac Profile">
   </a>
