@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm%20Junseo&fontSize=90" align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm%20Junseo&fontSize=90">
+</p>
 
 <h3 align="center">📚 Tech Stacks</h3>
 <p align="center">
