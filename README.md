@@ -1,6 +1,8 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm%20Junseo&fontSize=90">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=56A0F7&center=true&random=false&width=435&lines=Hello+World!" alt="Typing SVG" /></a>
 </p>
+
 
 <h3 align="center">📚 Tech Stacks</h3>
 <p align="center">
