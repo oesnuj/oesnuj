@@ -26,7 +26,7 @@
 </p>
 
 <br>
-<h3 align="center">👀 States</h3>
+<h3 align="center">👀 Stats</h3>
 
 <p align="center">
    <a href="https://github.com/oesnuj">
