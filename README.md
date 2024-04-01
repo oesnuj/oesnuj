@@ -1,5 +1,4 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5882FA&height=130&section=header&text=&fontSize=0" />
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%20I'm%20Junseo&fontSize=90">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56A0F7&center=true&random=false&width=570&lines=I'm+a+student+learning+computer+science!" alt="Typing SVG" />
 </p>
@@ -50,8 +49,6 @@
   <br>
   <!--GitHub Hit rates-->
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foesnuj&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8Dhits+&edge_flat=true"/></a>
-   <br>
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=5882FA&height=100&section=footer&text=&fontSize=0" />
 </p>
 
 <!--
