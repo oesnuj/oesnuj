@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi%20I'm%20Junseo&fontSize=74">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HI%20I'm%20Junseo&fontSize=74">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56A0F7&center=true&random=false&width=570&lines=I'm+a+student+learning+computer+science!" alt="Typing SVG" />
 </p>
 
