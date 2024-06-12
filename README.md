@@ -44,8 +44,6 @@
     <!--내 백준 티어
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesnuj" alt="Solved.ac Profile">
   </a  -->
-  <br>
-  <br>
   <!--GitHub Hit rates-->
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foesnuj&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8Dhits+&edge_flat=true"/></a>
 </p>
