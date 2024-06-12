@@ -40,10 +40,10 @@
   </a>
   <br>
   <br>
-  <a href="https://solved.ac/oesnuj">
-    <!--내 백준 티어-->
+  <!-- a href="https://solved.ac/oesnuj">
+    <!--내 백준 티어
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesnuj" alt="Solved.ac Profile">
-  </a>
+  </a  -->
   <br>
   <br>
   <!--GitHub Hit rates-->
