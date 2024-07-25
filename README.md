@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56A0F7&center=true&random=false&width=570&lines=I'm+a+student+learning+computer+science!" alt="Typing SVG" />
 </p>
 
-<br>
+<br> 
 <h3 align="center">📚 Tech Stacks</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
