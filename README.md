@@ -40,10 +40,9 @@
   <br>
   <br>
   <a href="https://github.com/oesnuj">
-    <!--GitHub 언어 사용빈도-->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oesnuj&layout=compact&theme=github_dark" alt="Top Languages">
+    <!--GitHub 언어 사용빈도
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oesnuj&layout=compact&theme=github_dark" alt="Top Languages" -->
   </a>
-  <br>
   <br>
   <!-- a href="https://solved.ac/oesnuj">
     <!--내 백준 티어
