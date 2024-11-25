@@ -17,7 +17,7 @@ I’m constantly learning and growing to become the best version of myself.
 > 
 > 2023.09 ~ 부경대학교 프로그래밍 동아리 WAP
 > 
-> 2024.09 ~ 2024.12 과학기술정보통신부 청소년 SW 동행 프로젝트 멘토링, 진주 동명중학교 SW/AI 멘토
+> 2024.09 ~ 2024.12 과학기술정보통신부 주관 청소년 SW 동행 프로젝트 멘토링, 진주 동명중학교 SW/AI 멘토
 
 <br/>
 
@@ -28,7 +28,7 @@ I’m constantly learning and growing to become the best version of myself.
 
 - [🎮 실시간 채팅 기반 웹 양세찬 게임 - WAG](https://github.com/oesnuj/waggle-waggle) 
 
-- [🏫 부경대학교 소속 단체 확인 서비스1 - 와비(WABI)](https://github.com/oesnuj/waggle-waggle) 
+- [🏫 부경대학교 소속 단체 확인 서비스 - 와비(WABI)](https://github.com/oesnuj/waggle-waggle) 
 
 - [🖼 GPT 이미지 분석 기반 맞춤형 여행 경로 생성 서비스 - 오바부(오늘 바로 부산)](https://github.com/oesnuj/2024-Mobady-Hackathon-FE)
 
