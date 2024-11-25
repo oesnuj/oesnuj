@@ -1,24 +1,59 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HI%20I'm%20Junseo&fontSize=74">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56A0F7&center=true&random=false&width=570&lines=I'm+a+student+learning+computer+science!" alt="Typing SVG" />
-</p>
+## Welcome to My Space! 🚀
 
+Hello, I'm Junseo Kim.
+
+I’m constantly learning and growing to become the best version of myself.
+
+<br/>
+
+## Experience
+> 2019.03 ~ 2019.12 김해분성고등학교 프로그래밍 동아리 CodeUp 회장
+> 
+> 2021.03 ~ 부경대학교 컴퓨터공학과 재학
+> 
+> 2021.03 ~ 2021.12 부경대학교 보안동아리 CERT-IS
+> 
+> 2022.01 ~ 2023.07 육군 정보보호병 전역
+> 
+> 2023.09 ~ 부경대학교 프로그래밍 동아리 WAP
+> 
+> 2024.09 ~ 2024.12 과학기술정보통신부 청소년 SW 동행 프로젝트 멘토링, 진주 동명중학교 SW/AI 멘토
+
+<br/>
+
+## Projects
+- 💡 IQ 문제 풀이 공유 서비스 -  LogicLab
+
+- [👵 1인 고령 가구를 위한 숙박 공유 플랫폼 - 와글와글(waggle-waggle) ](https://github.com/oesnuj/waggle-waggle) 
+
+- [🎮 실시간 채팅 기반 웹 양세찬 게임 - WAG](https://github.com/oesnuj/waggle-waggle) 
+
+- [🏫 부경대학교 소속 단체 확인 서비스1 - 와비(WABI)](https://github.com/oesnuj/waggle-waggle) 
+
+- [🖼 GPT 이미지 분석 기반 맞춤형 여행 경로 생성 서비스 - 오바부(오늘 바로 부산)](https://github.com/oesnuj/2024-Mobady-Hackathon-FE)
+
+- [📈 주식 투자 시뮬레이션 및 포트폴리오 분석 플랫폼 - 모투(motu)](https://github.com/oesnuj/2024-Mobady-Hackathon-FE)
+  
+<br/>
+
+## Skill
+#### Languages
 <br> 
-<h3 align="center">📚 Tech Stacks</h3>
-<p align="center">
-<!-- img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"-->
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<br>
+<div align="center"> 
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
+   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
+</div>
 
-</p>
+#### Frameworks / Libraries
+<div align="center"> 
+   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"> 
+   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=61DAFB&labelColor=61DAFB" alt="React">
+   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query">
+   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
+   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+</div>
 
 <!--br>
 <h3 align="center">⚒ Collaboration Tools</h3>
@@ -30,8 +65,8 @@
 </p -->
 
 <br>
-<h3 align="center">📈 Stats</h3>
 
+## Stats</h3>
 <p align="center">
    <a href="https://github.com/oesnuj">
      <!--GitHub 스택-->
@@ -50,19 +85,3 @@
   </a  -->
   <!--GitHub Hit rates-->
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foesnuj&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8Dhits+&edge_flat=true"/></a>
-</p>
-
-<!--
-**oesnuj/oesnuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
