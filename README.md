@@ -68,6 +68,16 @@ I’m constantly learning and growing to become the best version of myself.
 
 ## Stats</h3>
 <p align="center">
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/oesnuj"
+  width="600"
+  height="300"
+/>
+</a>
+
+<br/>
+  
    <a href="https://github.com/oesnuj">
      <!--GitHub 스택-->
     <img src="https://github-readme-stats.vercel.app/api?username=oesnuj&show_icons=true&bg_color=00000000&layout=compact&theme=holi" alt="GitHub Stats">
@@ -85,3 +95,7 @@ I’m constantly learning and growing to become the best version of myself.
   </a  -->
   <!--GitHub Hit rates-->
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foesnuj&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8Dhits+&edge_flat=true"/></a>
+
+<br>
+
+
