@@ -22,7 +22,7 @@ I’m constantly learning and growing to become the best version of myself.
 <br/>
 
 ## Projects
-- 💡 IQ 문제 풀이 공유 서비스 -  LogicLab
+<!-- - 💡 IQ 문제 풀이 공유 서비스 -  LogicLab -->
 
 - [👵 1인 고령 가구를 위한 숙박 공유 플랫폼 - 와글와글(waggle-waggle) ](https://github.com/oesnuj/waggle-waggle) 
 
