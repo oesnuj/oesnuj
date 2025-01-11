@@ -32,7 +32,7 @@ I’m constantly learning and growing to become the best version of myself.
 
 - [🖼 GPT 이미지 분석 기반 맞춤형 여행 경로 생성 서비스 - 오바부(오늘 바로 부산)](https://github.com/oesnuj/2024-Mobady-Hackathon-FE)
 
-- [📈 주식 투자 시뮬레이션 및 포트폴리오 분석 플랫폼 - 모투(motu)](https://github.com/oesnuj/Motu)
+<!-- -- [📈 주식 투자 시뮬레이션 및 포트폴리오 분석 플랫폼 - 모투(motu)](https://github.com/oesnuj/Motu) -->
   
 <br/>
 
