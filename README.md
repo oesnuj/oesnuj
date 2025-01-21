@@ -17,7 +17,7 @@ I’m constantly learning and growing to become the best version of myself.
 > 
 > 2023.09 ~ 부경대학교 프로그래밍 동아리 WAP
 > 
-> 2024.09 ~ 2024.12 과학기술정보통신부 주관 청소년 SW 동행 프로젝트 SW/AI 대학생 멘토
+> 2024.09 ~ 2024.12 과학기술정보통신부 주관 청소년 SW 동행 프로젝트 대학생 멘토
 
 <br/>
 
