@@ -13,7 +13,7 @@ I’m constantly learning and growing to become the best version of myself.
 > 
 > 2021.03 ~ 2021.12 부경대학교 보안동아리 CERT-IS
 > 
-> 2022.01 ~ 2023.07 육군 정보보호병 전역
+> 2022.01 ~ 2023.07 육군 정보보호병
 > 
 > 2023.09 ~ 부경대학교 프로그래밍 동아리 WAP
 > 
