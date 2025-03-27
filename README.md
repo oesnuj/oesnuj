@@ -22,7 +22,7 @@ I’m constantly learning and growing to become the best version of myself.
 <br/>
 
 ### Projects
-- [**🏫 부경대학교 동아리를 한눈에 보는 사이트 - 모아 동아리!**](https://github.com/Moadong/moadong)
+- [**🏫 모든 부경대 동아리를 모아, 지원과 관리까지 간편하게 - 모아 동아리!**](https://github.com/Moadong/moadong)
  
 - [**📸 부경대학교 QR 학생증 기반 소속 확인 서비스 - 와비(WABI)**](https://github.com/pknu-wap/WABI-FE) 
 
