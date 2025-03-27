@@ -6,8 +6,8 @@ I’m constantly learning and growing to become the best version of myself.
 
 <br/>
 
-## Experience
-> 2019.03 ~ 2019.12 김해분성고등학교 프로그래밍 동아리 CodeUp 회장
+### Experience
+> 2018.03 ~ 2019.12 김해분성고등학교 프로그래밍 동아리 CodeUp 회장
 > 
 > 2021.03 ~ 부경대학교 컴퓨터공학과 재학
 > 
@@ -21,18 +21,36 @@ I’m constantly learning and growing to become the best version of myself.
 
 <br/>
 
-## Projects
-<!-- - 💡 IQ 문제 풀이 공유 서비스 -  LogicLab -->
+### Projects
+- [**🏫 부경대학교 동아리를 한눈에 보는 사이트 - 모아 동아리!**](https://github.com/Moadong/moadong)
+ 
+- [**📸 부경대학교 QR 학생증 기반 소속 확인 서비스 - 와비(WABI)**](https://github.com/pknu-wap/WABI-FE) 
 
-- [👵 1인 고령 가구를 위한 숙박 공유 플랫폼 - 와글와글(waggle-waggle) ](https://github.com/oesnuj/waggle-waggle) 
+- [**🎮 실시간 채팅 기반 웹 양세찬 게임 - WAG**](https://github.com/pknu-wap/WAG) 
 
-- [🎮 실시간 채팅 기반 웹 양세찬 게임 - WAG](https://github.com/pknu-wap/WAG) 
 
-- [🏫 부경대학교 소속 단체 확인 서비스 - 와비(WABI)](https://github.com/pknu-wap/WABI-FE) 
+<br/>
 
-- [🖼 GPT 이미지 분석 기반 맞춤형 여행 경로 생성 서비스 - 오바부(오늘 바로 부산)](https://github.com/oesnuj/2024-Mobady-Hackathon-FE)
+### Awards
 
-<!-- -- [📈 주식 투자 시뮬레이션 및 포트폴리오 분석 플랫폼 - 모투(motu)](https://github.com/oesnuj/Motu) -->
+#### 🥇 2024 라이프스타일 스마트 가전 메이커톤 - 대상  
+- 3D 프린터를 활용하여 Arduino + AI + React Native 기반 IoT 스마트 조명 오락기  
+🔗 [JAKE 오락기(팀 필라멘트)](https://github.com/makerthon-filament)
+
+
+#### 🥇 2024 부경대학교 LINC 3.0 모배디 해커톤 - 대상  
+- ChatGPT 이미지 분석 기반 부산 명소 추천 및 여행 경로 생성 서비스  
+🖼 [오바부 (오늘 바로 부산)](https://github.com/oesnuj/2024-Mobady-Hackathon-FE)
+
+
+#### 🥉 2024 부산대 × 부경대 지역사회 문제해결 연합 해커톤 - 장려상  
+- 1인 고령 가구를 위한 숙박 공유 플랫폼 개발  
+👵 [와글와글 (Waggle-Waggle)](https://github.com/oesnuj/waggle-waggle)
+
+
+<br/>
+
+
   
 <br/>
 
