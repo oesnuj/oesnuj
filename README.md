@@ -92,7 +92,7 @@ I’m constantly learning and growing to become the best version of myself.
 
 ## Stats</h3>
 <p align="center">
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=oesnuj&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/oesnuj"
   width="600"
