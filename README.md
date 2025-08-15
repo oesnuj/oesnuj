@@ -20,6 +20,9 @@ I’m constantly learning and growing to become the best version of myself.
 > 2024.09 ~ 2024.12 과학기술정보통신부 주관 청소년 SW 동행 프로젝트 대학생 멘토
 >
 > 2025.03 ~ 2025.6 부경대학교 선배 멘토링 컴퓨터공학전공 멘토
+>
+> 2025.06 ~  부스트캠프 웹・모바일 10기
+
 
 <br/>
 
