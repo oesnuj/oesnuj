@@ -60,14 +60,34 @@ I’m constantly learning and growing to become the best version of myself.
 <br/>
 
 ## Skill
-<br> 
-<div align="center"> 
+```json
+{
+  "languages": {
+    "main": ["JavaScript", "TypeScript"],
+    "lowLevel": ["C++"]
+  },
+  "frontend": {
+    "framework": ["React", "React Native"],
+    "dataFetching": ["React Query"],
+    "styling": ["Styled Components", "TailwindCSS"]
+  },
+  "backend": {
+    "runtime": "Node.js",
+    "framework": "Express"
+  },
+  "hardware": {
+    "experience": ["Arduino"]
+  }
+}
+```
+
+
+<!-- <div align="center"> 
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
 </div>
-
 <div align="center"> 
 
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=61DAFB&labelColor=61DAFB" alt="React">
@@ -80,7 +100,7 @@ I’m constantly learning and growing to become the best version of myself.
 
    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"> 
    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-</div>
+</div> -->
 
 <!--br>
 <h3 align="center">⚒ Collaboration Tools</h3>
@@ -102,24 +122,7 @@ I’m constantly learning and growing to become the best version of myself.
   height="300"
 />
 </a>
-
-<a href="https://github.com/oesnuj">
-    <img src="https://github-readme-stats.vercel.app/api?username=oesnuj&show_icons=true&bg_color=00000000&layout=compact&theme=holi" alt="GitHub Stats">
-</a>
 <br>
-<br>
-<a href="https://github.com/oesnuj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oesnuj&layout=compact&theme=github_dark" alt="Top Languages">
-</a>
-<br>
-<br>
-<!-- <a href="https://solved.ac/oesnuj">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=oesnuj" alt="Solved.ac Profile">
-</a> -->
-<!--br>
-<a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foesnuj&count_bg=%233D89C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%8Dhits+&edge_flat=true"/>
-</a -->
 </p>
 
 <br>
