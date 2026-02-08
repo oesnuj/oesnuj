@@ -21,15 +21,17 @@ I’m constantly learning and growing to become the best version of myself.
 >
 > 2025.03 ~ 2025.6 부경대학교 선배 멘토링 컴퓨터공학전공 멘토
 >
-> 2025.06 ~ 네이버 부스트캠프 웹・모바일 10기
+> 2025.06 ~ 2026.2 네이버 부스트캠프 웹・모바일 10기
 
 
 <br/>
 
-### FE Projects
-- [**🏫 모든 부경대 동아리를 모아, 지원과 관리까지 간편하게 - 모아 동아리!**](https://github.com/Moadong/moadong)
+### Projects
+- [**🏫 모든 동아리를 모아, 지원과 관리까지 간편하게 - 모아 동아리!**](https://github.com/Moadong/moadong)
+
+- [**🎨 그림을 기억해 최대한 유사하게 그리는 실시간 멀티플레이 게임 - 우리 모두 다빈치**](https://github.com/boostcampwm2025/web04-we-are-all-da-Vinci) 
  
-- [**📸 부경대학교 QR 학생증 기반 소속 확인 서비스 - 와비(WABI)**](https://github.com/pknu-wap/WABI-FE) 
+- [**📸 QR 학생증 기반 소속 확인 서비스 - 와비(WABI)**](https://github.com/pknu-wap/WABI-FE) 
 
 - [**🎮 실시간 채팅 기반 웹 양세찬 게임 - WAG**](https://github.com/pknu-wap/WAG) 
 
@@ -68,7 +70,6 @@ I’m constantly learning and growing to become the best version of myself.
   },
   "frontend": {
     "framework": ["React", "React Native"],
-    "dataFetching": ["React Query"],
     "styling": ["Styled Components", "TailwindCSS"]
   },
   "backend": {
