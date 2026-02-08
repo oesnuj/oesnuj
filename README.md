@@ -27,7 +27,7 @@ I’m constantly learning and growing to become the best version of myself.
 <br/>
 
 ### Projects
-- [**🏫 모든 동아리를 모아, 지원과 관리까지 간편하게 - 모아 동아리!**](https://github.com/Moadong/moadong)
+- [**🏫 모든 동아리를 모아, 지원과 관리까지 간편하게 - 모아동(moadong)!**](https://github.com/Moadong/moadong)
 
 - [**🎨 그림을 기억해 최대한 유사하게 그리는 실시간 멀티플레이 게임 - 우리 모두 다빈치**](https://github.com/boostcampwm2025/web04-we-are-all-da-Vinci) 
  
