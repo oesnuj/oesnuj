@@ -7,24 +7,24 @@ I’m constantly learning and growing to become the best version of myself.
 <br/>
 
 ### Experience
-> 2018.03 ~ 2019.12 김해분성고등학교 프로그래밍 동아리 CodeUp 회장
-> 
-> 2021.03 ~ 부경대학교 컴퓨터공학과 재학
-> 
-> 2021.03 ~ 2021.12 부경대학교 보안동아리 CERT-IS
-> 
-> 2022.01 ~ 2023.07 육군 정보보호병
-> 
-> 2023.09 ~ 부경대학교 프로그래밍 동아리 WAP
-> 
-> 2024.09 ~ 2024.12 과학기술정보통신부 주관 청소년 SW 동행 프로젝트 대학생 멘토
->
-> 2025.03 ~ 2025.06 부경대학교 선배 멘토링 컴퓨터공학전공 멘토
+
+> 2026.03 ~ 소프트웨어 마에스트로 17기
 >
 > 2025.06 ~ 2026.02 네이버 부스트캠프 웹・모바일 10기
 >
-> 2026.03 ~ 소프트웨어 마에스트로 17기
-
+> 2025.03 ~ 2025.06 부경대학교 선배 멘토링 컴퓨터공학전공 멘토
+>
+> 2024.09 ~ 2024.12 과학기술정보통신부 주관 청소년 SW 동행 프로젝트 대학생 멘토
+>
+> 2023.09 ~ 부경대학교 프로그래밍 동아리 WAP
+>
+> 2022.01 ~ 2023.07 육군 정보보호병
+>
+> 2021.03 ~ 부경대학교 컴퓨터공학과 재학
+>
+> 2021.03 ~ 2021.12 부경대학교 보안동아리 CERT-IS
+>
+> 2018.03 ~ 2019.12 김해분성고등학교 프로그래밍 동아리 CodeUp 회장
 
 <br/>
 
@@ -51,6 +51,8 @@ I’m constantly learning and growing to become the best version of myself.
 - ChatGPT 이미지 분석 기반 부산 명소 추천 및 여행 경로 생성 서비스  
 🖼 [오바부 (오늘 바로 부산)](https://github.com/oesnuj/2024-Mobady-Hackathon-FE)
 
+#### 🥈 2026 부경대학교 프로그래밍 경진대회 - 우수상
+- 알고리즘 및 문제 해결 역량 기반 프로그래밍 경진대회 수상
 
 #### 🥉 2024 부산대 × 부경대 지역사회 문제해결 연합 해커톤 - 장려상  
 - 1인 고령 가구를 위한 숙박 공유 플랫폼 개발  
@@ -64,24 +66,28 @@ I’m constantly learning and growing to become the best version of myself.
 <br/>
 
 ## Skill
-```json
-{
-  "languages": {
-    "main": ["JavaScript", "TypeScript"],
-    "lowLevel": ["C++"]
+```js
+const techStack = {
+  languages: ["JavaScript", "TypeScript", "C++"],
+
+  frontend: {
+    frameworks: ["React", "React Native", "Next.js", "Expo"],
+    styling: ["Styled Components", "Tailwind CSS"],
+    stateManagement: ["Zustand"],
+    dataFetching: ["TanStack Query"],
   },
-  "frontend": {
-    "framework": ["React", "React Native"],
-    "styling": ["Styled Components", "TailwindCSS"]
+
+  backend: {
+    runtime: ["Node.js"],
+    frameworks: ["NestJS", "Express"],
+    orm: ["TypeORM"],
+    databases: ["MySQL", "MongoDB"],
   },
-  "backend": {
-    "runtime": "Node.js",
-    "framework": "Express"
+
+  hardware: {
+    experience: ["Arduino"],
   },
-  "hardware": {
-    "experience": ["Arduino"]
-  }
-}
+};
 ```
 
 
