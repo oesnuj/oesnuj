@@ -23,8 +23,6 @@ I’m constantly learning and growing to become the best version of myself.
 > 2021.03 ~ 부경대학교 컴퓨터공학과 재학
 >
 > 2021.03 ~ 2021.12 부경대학교 보안동아리 CERT-IS
->
-> 2018.03 ~ 2019.12 김해분성고등학교 프로그래밍 동아리 CodeUp 회장
 
 <br/>
 
