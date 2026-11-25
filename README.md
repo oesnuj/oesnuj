@@ -1,122 +1,48 @@
-## Welcome to My Space! 🚀
+## About Me
 
-Hello, I'm Junseo Kim.
+> [!IMPORTANT]
+> 출시에서 멈추지 않고, 가설과 검증으로 사용자에게 가치 있는 경험이 될 때까지 제품을 끝까지 책임지는 개발자예요.
 
-I’m constantly learning and growing to become the best version of myself.
-
-<br/>
-
-### Experience
-
-> 2026.03 ~ 소프트웨어 마에스트로 17기
->
-> 2025.06 ~ 2026.02 네이버 부스트캠프 웹・모바일 10기
->
-> 2025.03 ~ 2025.06 부경대학교 선배 멘토링 컴퓨터공학전공 멘토
->
-> 2024.09 ~ 2024.12 과학기술정보통신부 주관 청소년 SW 동행 프로젝트 대학생 멘토
->
-> 2023.09 ~ 부경대학교 프로그래밍 동아리 WAP
->
-> 2022.01 ~ 2023.07 육군 정보보호병
->
-> 2021.03 ~ 부경대학교 컴퓨터공학과 재학
->
-> 2021.03 ~ 2021.12 부경대학교 보안동아리 CERT-IS
+- 여러 선택지 앞에서, 사용자와 비즈니스 모두에 가장 큰 임팩트를 낼 수 있는 길을 찾아요.
+- 더 좋은 제품을 위해 생각을 나누고 토론하는 걸 좋아해요.
+- 말로만 설명하기보다 프로토타입을 빠르게 만들어 보며 이야기해요.
+- 혼자 잘하는 것보다, 저로 인해 팀이 더 잘하게 될 때 더 즐거워요.
 
 <br/>
 
-### Projects
-- [**🏫 모든 동아리를 모아, 지원과 관리까지 간편하게 - 모아동(moadong)!**](https://github.com/Moadong/moadong)
+## Tech Stack
 
-- [**🎨 그림을 기억해 최대한 유사하게 그리는 실시간 멀티플레이 게임 - 우리 모두 다빈치**](https://github.com/boostcampwm2025/web04-we-are-all-da-Vinci) 
- 
-- [**📸 QR 학생증 기반 소속 확인 서비스 - 와비(WABI)**](https://github.com/pknu-wap/WABI-FE) 
+| 분야 | 기술 |
+| --- | --- |
+| **Language** | TypeScript · JavaScript · C++ |
+| **Frontend** | React · Next.js · React Native · Expo · Tailwind CSS · styled-components |
+| **State · Data** | TanStack Query · Zustand · Socket.IO |
+| **Backend** | Node.js · NestJS · Express · MySQL |
+| **Deploy** | Docker · Docker Compose · Vercel |
+| **Test · Monitoring** | Vitest · Playwright · Storybook · Sentry · Amplitude · Mixpanel |
+| **Tools** | Git · GitHub · pnpm · Figma · Notion |
 
-- [**🎮 실시간 채팅 기반 웹 양세찬 게임 - WAG**](https://github.com/pknu-wap/WAG) 
+<br/>
+
+## Projects
+
+| 기간 | 프로젝트 | 주요 업무 |
+| :---: | :---: | --- |
+| 2026.05 ~ | [**랜딧 Landit**](https://www.landit.im)<br/>AI 캐릭터와 대화하는 영어 회화 앱 | • WebView 기반 iOS·Android 앱 개발과 웹↔앱 브릿지 설계<br/>• 실시간 음성 대화와 캐릭터 립싱크로 몰입형 대화 경험 구현<br/>• 구독 결제 도입과 퍼널 지표 기반 페이월 개선<br/>• 백오피스와 AI 오류 분석 알림으로 운영 모니터링 체계 구축 |
+| 2025.12 ~ | [**우리 모두 다빈치**](https://wlldv.art)<br/>그림을 기억해 그리는 실시간 멀티플레이 게임 | • 기획, 풀스택 개발 (프론트엔드·백엔드·인프라)<br/>• Canvas 드로잉과 소켓 기반 실시간 게임 진행 구현<br/>• 앱인토스 미니앱 「똑같이 그려봐」로 확장 출시 |
+| 2025.01 ~ | [**모아동**](https://www.moadong.com/introduce)<br/>동아리 지원과 관리를 한곳에서 하는 웹·앱 서비스 | • 학교·동아리와 직접 소통하며 서비스 기획부터 현장 홍보까지 주도<br/>• 학생용 탐색·지원 화면과 운영진용 관리 화면 프론트엔드 개발<br/>• WebView 기반 iOS·Android 앱 출시<br/>• Mixpanel 이벤트 설계로 사용 흐름 분석 |
+| 2024.03 ~ 2024.09 | [**WAG**](https://wwwag.co.kr)<br/>실시간 채팅으로 즐기는 웹 양세찬 게임 | • 소켓 기반 실시간 채팅과 게임 흐름 동기화<br/>• OG 태그·Lighthouse 점검·검색엔진 등록으로 검색 노출 개선 |
 
 
 <br/>
 
 ### Awards
 
-#### 🥇 2024 라이프스타일 스마트 가전 메이커톤 - 대상  
-- 3D 프린터를 활용하여 Arduino + AI + React Native 기반 IoT 스마트 조명 오락기  
-🔗 [JAKE 오락기(팀 필라멘트)](https://github.com/makerthon-filament)
-
-
-#### 🥇 2024 부경대학교 LINC 3.0 모배디 해커톤 - 대상  
-- ChatGPT 이미지 분석 기반 부산 명소 추천 및 여행 경로 생성 서비스  
-🖼 [오바부 (오늘 바로 부산)](https://github.com/oesnuj/2024-Mobady-Hackathon-FE)
-
-#### 🥈 2026 부경대학교 프로그래밍 경진대회 - 우수상
-- 알고리즘 및 문제 해결 역량 기반 프로그래밍 경진대회 수상
-
-#### 🥉 2024 부산대 × 부경대 지역사회 문제해결 연합 해커톤 - 장려상  
-- 1인 고령 가구를 위한 숙박 공유 플랫폼 개발  
-👵 [와글와글 (Waggle-Waggle)](https://github.com/oesnuj/waggle-waggle)
-
-
-<br/>
-
-
-  
-<br/>
-
-## Skill
-```js
-const techStack = {
-  languages: ["JavaScript", "TypeScript", "C++"],
-
-  frontend: {
-    frameworks: ["React", "React Native", "Next.js", "Expo"],
-    styling: ["Styled Components", "Tailwind CSS"],
-    stateManagement: ["Zustand"],
-    dataFetching: ["TanStack Query"],
-  },
-
-  backend: {
-    runtime: ["Node.js"],
-    frameworks: ["NestJS", "Express"],
-    orm: ["TypeORM"],
-    databases: ["MySQL", "MongoDB"],
-  },
-
-  hardware: {
-    experience: ["Arduino"],
-  },
-};
-```
-
-
-<!-- <div align="center"> 
-   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
-   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
-</div>
-<div align="center"> 
-
-   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=61DAFB&labelColor=61DAFB" alt="React">
-   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React_Native">
-   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query">
-   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
-   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
-
-   <br />
-
-   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-</div> -->
-
-<!--br>
-<h3 align="center">⚒ Collaboration Tools</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p -->
+- 🥇 2024 글로벌 라이프스타일 스마트 가전 메이커톤 - 대상
+- 🥇 2024 부경대 LINC 3.0 모배디 해커톤 - 대상
+- 🥈 2026 부경대 프로그래밍 경진대회 - 우수상
+- 🥉 2026 제28회 UN 평화축제 지역문제해결 AI·SW 융합 프로젝트 - 장려상
+- 🥉 2024 부산대 × 부경대 지역사회 문제해결 연합 해커톤 - 장려상
 
 <br>
 
