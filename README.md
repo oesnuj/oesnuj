@@ -10,7 +10,7 @@
 
 <br/>
 
-## Tech Stack
+### Tech Stack
 
 | 분야 | 기술 |
 | --- | --- |
@@ -25,7 +25,7 @@
 
 <br/>
 
-## Projects
+### Projects
 
 | 기간 | 프로젝트 | 주요 업무 |
 | :---: | :---: | --- |
@@ -38,7 +38,7 @@
 <br/>
 
 
-## Experience
+### Experience
 
 | 기간 | 활동 |
 | :---: | --- |
@@ -62,7 +62,7 @@
 
 <br>
 
-## Stats</h3>
+### Stats</h3>
 <p align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=oesnuj&utm_content=farm">
 <img
@@ -73,6 +73,4 @@
 </a>
 <br>
 </p>
-
-<br>
 
