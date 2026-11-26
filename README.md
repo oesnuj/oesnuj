@@ -20,7 +20,6 @@
 | **Backend** | Node.js · NestJS · Express · MySQL |
 | **Deploy** | Docker · Docker Compose · Vercel |
 | **Test · Monitoring** | Vitest · Playwright · Storybook · Sentry · Amplitude · Mixpanel |
-| **Tools** | Git · GitHub · pnpm · Figma · Notion |
 
 <br/>
 
